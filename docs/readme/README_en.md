@@ -115,4 +115,6 @@ A: This utility is 100% clean and free of malware or telemetry. Because listenin
 ## 📄 License
 This software is distributed under a proprietary freeware license. For full terms, conditions, and disclaimers, please read the [LICENSE](../../LICENSE) document.
 
-This software uses the third-party component YY-Thunks (MIT License). See [THIRD_PARTY_NOTICES.md](../../THIRD_PARTY_NOTICES.md).
+This software uses Slint (Royalty-Free License), YY-Thunks (MIT) and several open-source Rust crates. See [THIRD_PARTY_NOTICES.md](../../THIRD_PARTY_NOTICES.md) and [THIRD_PARTY_LICENSES.md](../../THIRD_PARTY_LICENSES.md).
+
+<a href="https://slint.dev"><img src="https://raw.githubusercontent.com/slint-ui/slint/master/logo/MadeWithSlint-logo-whitebg.png" alt="Made with Slint" width="160"></a>
